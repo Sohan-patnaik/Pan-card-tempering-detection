@@ -1,6 +1,6 @@
-scikit-image,
-imutils
+scikit-image
 opencv-python
 Pillow
-numpy
 streamlit
+imutils
+numpy
