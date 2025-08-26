@@ -1,6 +1,6 @@
-skimage.metrics
+scikit-image,
 imutils
-cv2
-PIL
+opencv-python
+Pillow
 numpy
 streamlit
